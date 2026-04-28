@@ -26,3 +26,34 @@ Our EDA revealed distinct patterns:
 1.  **Length:** AI texts are significantly longer (~346 words) than human texts (~39 words).
 2.  **Vocabulary:** Humans use a richer variety of unique words (High Lexical Diversity).
 3.  **Structure:** AI sentences are more complex and "perfectly" structured.
+
+## 4. Lab 3.1: Model Refinement & Extension
+**Status:** New Addition
+**Description:** Extension of the Human vs. AI detection model introduced in Lab 3.
+**Contents:**
+- Contains updated notebooks and experimental data in the `Lab3.1/` directory.
+
+## 5. Lab 6: Linear Regression
+**Description:** Linear Regression model to predict 'Yearly Amount Spent' using the `Ecommerce Customers` dataset.
+- **Dataset:** `Lab6/Ecommerce Customers`
+- **Features:** Avg. Session Length, Time on App, Time on Website, Length of Membership.
+- **Notebook:** `Lab6/lab6_faisal.ipynb`
+
+## 6. Lab 7: Logistic Regression
+**Description:** Logistic Regression classification to predict whether a user 'Clicked on Ad' based on user features.
+- **Dataset:** `Lab7/advertising.csv`
+- **Features:** Daily Time Spent on Site, Age, Area Income, Daily Internet Usage, Male.
+- **Notebook:** `Lab7/lab_7.ipynb`
+
+## 7. Lab 8: K-Nearest Neighbors (KNN)
+**Description:** K-Nearest Neighbors classification using standardized features on an artificial dataset.
+- **Dataset:** `Lab8/KNN_Project_Data`
+- **Target:** `TARGET CLASS`
+- **Notebook:** `Lab8/02_K_Nearest_Neighbors_Assignment.ipynb`
+
+## 8. Lab 9: Decision Trees and Random Forest
+**Description:** Classification model using Decision Trees and Random Forest to predict loan repayment.
+- **Dataset:** `Lab9/loan_data.csv` (LendingClub data)
+- **Features:** credit.policy, purpose, int.rate, installment, log.annual.inc, dti, fico, days.with.cr.line, revol.bal, revol.util, inq.last.6mths, delinq.2yrs, pub.rec
+- **Target:** `not.fully.paid`
+- **Notebook:** `Lab9/02-Decision Trees and Random Forest Project.ipynb`
