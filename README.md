@@ -71,16 +71,27 @@ This lab focuses on building and comparing engineered features and feature confi
 
 ---
 
-## Notebooks / Files
+## Additional Labs (ML Projects)
 
-- `notebooks/lab4_preprocessing_pca.ipynb`  
-  Lab 4 tasks: data quality, missing values, IQR outliers, scaling, PCA.
+### Lab 6: Linear Regression
+Description: Linear Regression model to predict 'Yearly Amount Spent' using the `Ecommerce Customers` dataset.
+- **Dataset:** `Lab6/Ecommerce Customers`
+- **Notebook:** `Lab6/lab6_faisal.ipynb`
 
-- `notebooks/lab5_feature_engineering.ipynb`  
-  Lab 5 tasks: engineered feature experiments, peak-hour rules, top_k comparisons, feature selection.
+### Lab 7: Logistic Regression
+Description: Logistic Regression classification to predict whether a user 'Clicked on Ad' based on user features.
+- **Dataset:** `Lab7/advertising.csv`
+- **Notebook:** `Lab7/lab_7.ipynb`
 
-- `ai_human_detection_v1.csv`  
-  Dataset file.
+### Lab 8: K-Nearest Neighbors (KNN)
+Description: K-Nearest Neighbors classification using standardized features on an artificial dataset.
+- **Dataset:** `Lab8/KNN_Project_Data`
+- **Notebook:** `Lab8/02_K_Nearest_Neighbors_Assignment.ipynb`
+
+### Lab 9: Decision Trees and Random Forest
+Description: Classification model using Decision Trees and Random Forest to predict loan repayment.
+- **Dataset:** `Lab9/loan_data.csv` (LendingClub data)
+- **Notebook:** `Lab9/02-Decision Trees and Random Forest Project.ipynb`
 
 ---
 
@@ -88,7 +99,7 @@ This lab focuses on building and comparing engineered features and feature confi
 
 1. Open the notebook in Google Colab or Jupyter.
 2. Make sure the dataset path matches your environment:
-   - Colab: `/content/ai_human_detection_v1.csv`
+   - Colab: `/content/ai_human_detection_v1.csv` (or relative path if using the organized structure).
    - Local: update `DATA_PATH` in the notebook.
 3. Run all cells from top to bottom.
 
