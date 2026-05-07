@@ -93,6 +93,11 @@ Description: Classification model using Decision Trees and Random Forest to pred
 - **Dataset:** `Lab9/loan_data.csv` (LendingClub data)
 - **Notebook:** `Lab9/02-Decision Trees and Random Forest Project.ipynb`
 
+### Lab 10: Support Vector Machines (SVM)
+Description: Support Vector Machines classification on the Iris dataset to predict flower species, including parameter tuning with GridSearchCV.
+- **Dataset:** `iris` (Seaborn built-in)
+- **Notebook:** `Lab10/lab10_svm.ipynb`
+
 ---
 
 ## How to Run
