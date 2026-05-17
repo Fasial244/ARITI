@@ -98,6 +98,11 @@ Description: Support Vector Machines classification on the Iris dataset to predi
 - **Dataset:** `iris` (Seaborn built-in)
 - **Notebook:** `Lab10/lab10_svm.ipynb`
 
+### Lab 11: Credit Card Customer Segmentation
+Description: K-Means clustering to segment credit card customers based on their usage behavior.
+- **Dataset:** `CC_GENERAL.csv`
+- **Notebook:** `Lab11/02-Credit Card Customer Segmentation Assignment.ipynb`
+
 ---
 
 ## How to Run
